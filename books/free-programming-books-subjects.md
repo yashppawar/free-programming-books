@@ -114,7 +114,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
 * [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
-* [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) - Donald Knuth (fascicles, mostly volume 4)
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
@@ -123,7 +122,9 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Artificial Intelligence
 
+* [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
+* [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 
@@ -193,6 +194,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Containers
 
 * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
+* [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 
 
 ### Database
@@ -261,6 +263,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Programming with gtkmm 4](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 * [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) - Sébastien Wilmet (PDF)
+* [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
 
 
 ### Information Retrieval
@@ -307,6 +310,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) - Danny Friedman
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
+* [Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python) - Tutorials Point (HTML, [PDF](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf))
 * [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas (PDF)
 * [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
@@ -660,6 +664,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Software Architecture
 
+* [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns) - Rahul Batra (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
