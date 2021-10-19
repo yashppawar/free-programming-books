@@ -9,6 +9,7 @@
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#cpp)
+* [Dart](#dart)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
   * [Arquitetura de Software](#arquitetura-de-software)
@@ -44,7 +45,7 @@
 * [R](#r)
 * [RegEx](#regex)
 * [Ruby](#ruby)
-* [Shell Script](#shell)
+* [Shell / Bash Script](#shell--bash)
 * [TypeScript](#typescript)
   * [Angular](#angular)
 
@@ -106,6 +107,12 @@
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
 * [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
+
+
+### Dart
+
+* [Dart Documentação](https://dart.dev/guides) - dart.dev
+* [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br) - Rubens de Melo (gitbook)
 
 
 ### Docker
@@ -179,6 +186,7 @@
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
+* [Programação Básica em Java](http://professor.unisinos.br/pjaques/material/java_basico.pdf) - Patrícia Jaques Maillard (PDF)
 * [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) (PDF)
 
 
@@ -297,7 +305,6 @@
 
 ### PHP
 
-* [A semana PHP](http://asemanaphp.com.br)
 * [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
@@ -354,8 +361,9 @@
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
 
 
-### Shell
+### Shell / Bash
 
+* [Bash Scripting](https://meleu.gitbooks.io/bashscripting/content/) - Meleu (gitbook)
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)

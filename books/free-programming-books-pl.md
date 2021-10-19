@@ -2,6 +2,7 @@
 
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [Android](#android)
+* [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
@@ -45,9 +46,15 @@
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
 
+### Assembly
+
+* [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
+
+
 ### Bash
 
 * [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
+* [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) - Artur Pyszczuk (PDF)
 
 
 ### C
@@ -76,6 +83,7 @@
 * [C++](https://pl.wikibooks.org/wiki/C++) - Wikibooks
 * [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
+* [Kurs podstaw Arduino](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290) - forbot.pl
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
 
 

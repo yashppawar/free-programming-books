@@ -25,17 +25,21 @@
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
+* [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
+* [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)
 * [Sass](#sass)
+* [Segurança da Informação](#segurança-da-informação)
 * [Shell](#shell)
 * [Swift](#swift)
 * [TypeScript](#typescript)
   * [Angular](#angular)
 * [Vue.js](#vuejs)
+* [WordPress](#wordpress)
 
 
 ### Android
@@ -47,6 +51,7 @@
 ### C
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
+* [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário (Youtube)
 
 
 ### C Sharp
@@ -105,7 +110,8 @@
 
 * [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech (YouTube)
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
-* [Go – Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes (YouTube)
+* [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe (YouTube)
+* [Go - Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes (YouTube)
 * [Programar em Go](https://www.youtube.com/playlist?list=PLV5KfEYwFC1G3r7XlgVCE5HVdVKj-UdRa) - Caffeine Algorithm (YouTube)
 
 
@@ -162,6 +168,7 @@
 ### JavaScript
 
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
+* [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Curso Starter ES6, Node, React e React Native](https://app.rocketseat.com.br/discover/courses) - Rocketseat
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 
@@ -184,6 +191,7 @@
 
 ### Linux
 
+* [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara (Youtube)
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
 
@@ -204,6 +212,11 @@
 * [Aprenda Markdown](https://www.udemy.com/aprenda-markdown/) - Roberto Achar (Udemy)
 
 
+### Networking
+
+* [Curso de IPv6 Básico a Distância](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about) - NIC.br
+
+
 ### Node.js
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
@@ -221,7 +234,6 @@
 * [Curso Introdução ao Laravel 8](https://academy.especializati.com.br/curso/introducao-ao-laravel-8) - Carlos Ferreira (Especializati academy)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
 * [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/) - Diego Mariano (Udemy)
-* [Laravel 8 - Primeiros Passos](https://www.udemy.com/course/laravel-8/) - Nanderson Castro (Udemy)
 * [Lógica de Programação com PHP](https://www.youtube.com/playlist?list=PLhTDLccA9vgHHwGZArcUqIZ5AUGwrbZ_A) - Curso Zend Framework (YouTube)
 * [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/) - Alexandre Cardoso (Udemy)
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
@@ -255,6 +267,11 @@
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson (YouTube)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
+
+
+### Raspberry Pi
+
+* [Curso de Raspberry Pi: primeiros passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy) - Gustavo Guanabara (YouTube)
 
 
 ### React Native
@@ -302,9 +319,18 @@
 
 ### Vue.js
 
+* [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Leonardo Moura Leitao, Cod3r (Udemy)
+* [Introdução ao Vue JS](https://www.udemy.com/course/introducao-ao-vue-js/) - Rafael Rend (Udemy)
 * [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 
 
 ### WordPress
 
+* [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Curso em vídeo (YouTube)
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Curso em vídeo (YouTube)
+
+
+### Segurança da Informação
+
+* [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
+* [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)
